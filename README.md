@@ -1,9 +1,13 @@
-My name is Alfonso.
-
 I develop my algorithms with AI.
 
-I own my infrastructure with AMD, Intel, Apple
-Windows ASCII ANY COMPUTER AND NO COMPUTER
-MACOS UNICODE SPECIFIC HEAVY BUFFER
+Intel = Adaptive
+
+AMD = Fixed
+
+Apple = Buffer Long 
+
+Microsoft Windows = Any and no Hardware
+
+Google = Machine to human , human to Machine, Machine to developer, developer to Machine
 
 I develop other infrastructures

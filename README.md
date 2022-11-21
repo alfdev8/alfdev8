@@ -11,3 +11,6 @@ Microsoft Windows = Any and no Hardware
 Google = Machine to human , human to Machine, Machine to developer, developer to Machine
 
 I develop other infrastructures
+
+Example1 webOS 
+How to use appstore or playstore for saving money for further machine expensive bought and using a bluetooth mouse kvm switch and save battery instead no sense 

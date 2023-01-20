@@ -17,3 +17,5 @@ How to use appstore or playstore or microsoft store for saving money for further
 
 Example2 User must love passionate his work even do not shower sundays due cold winds
 Select appropiate scenario for its own comfortable (Best games, best music, best video, best diet) adapt its own rutine.
+
+Example3 Do not use photoshop for brith day, instead of that try to play with people in the picture with no acting knowledge or music improvizations. Dynamics.
